@@ -3,3 +3,9 @@ Question and Answer Chatbot designed to democratize learning about Langchain. Th
 
 
 <p align="center"><img src="https://github.com/Mps24-7uk/Learn-Langchain-with-AI-Powered-Q-A-Chatbot/blob/main/Images/Langchain_.png" width="1000" height="800"></p>
+
+
+## Dependencies [Required Modules](https://github.com/Mps24-7uk/Learn-langchain-with-AI-Powered-Q-A-Chatbot/blob/master/requirements.txt)
+
+1. langchain
+2. streamlit
