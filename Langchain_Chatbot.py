@@ -17,7 +17,7 @@ with open('faiss_langchain_db.pickle', 'rb') as handle:
       db_m1  = pickle.load(handle)["embedding"]
         
 # Streamlit UI setup
-st.title("Explore Langchain with AI-Powered Q&A Chatbot")
+st.title("Learn Langchain with AI-Powered Q&A Chatbot")
 
 def main():
   query = st.text_input('Ask Question about Langchain.')
