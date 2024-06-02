@@ -1,4 +1,4 @@
-# Learn Langchain with AI Powered Q&A Chatbot
+9# Learn Langchain with AI Powered Q&A Chatbot
 Question and Answer Chatbot designed to democratize learning about Langchain. This chatbot taps into the knowledge on the official Langchain Python library website, making it more accessible to everyone.
 
 
@@ -9,3 +9,6 @@ Question and Answer Chatbot designed to democratize learning about Langchain. Th
 
 1. langchain
 2. streamlit
+
+## Key
+Add your secret key into the file [constant_huggingface.py](https://github.com/Mps24-7uk/Learn-Langchain-with-AI-Powered-Q-A-Chatbot/blob/main/constant_huggingface.py)
