@@ -1,4 +1,4 @@
-9# Learn Langchain with AI Powered Q&A Chatbot
+# Learn Langchain with AI Powered Q&A Chatbot
 Question and Answer Chatbot designed to democratize learning about Langchain. This chatbot taps into the knowledge on the official Langchain Python library website, making it more accessible to everyone.
 
 
